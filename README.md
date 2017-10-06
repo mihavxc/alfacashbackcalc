@@ -5,7 +5,7 @@
 <center><img src='https://github.com/mihavxc/alfacashbackcalc/blob/master/screen.png?raw=true' alt='Расчет кэшбэка в Альфа-Банке' title='Расчет кэшбэка в Альфа-Банке'></center>
 
 
-Что это?
+Что это?<br>
 Программа для расчета размера кэшбэка, который будет вам начислен за использование кэшбэк карты Альфа-банка. Расчет осуществляется на основании банковской выписки в формате CSV, которую вы можете скачать в Альфа.Клике.
 
 Скомпилированный вариант: <a href='https://github.com/mihavxc/alfacashbackcalc/tree/master/Alfa%20CashBack%20Calc/bin'>тут</a>.
